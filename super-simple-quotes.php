@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Super Simple Quotes
-Plugin URI: http://www.subtree.se/
+Plugin URI: http://wordpress.org/extend/plugins/super-simple-quotes/
 Description: Display quotes that auto-refresh using javascript. 
 Version: 1.0
 Author: P&aring;l Brattberg
