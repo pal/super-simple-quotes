@@ -11,7 +11,7 @@ Super Simple Quotes is just that. A very simple plugin to manage quotes and disp
 
 Super Simple Quotes is a very simple plugin to manage quotes and display a random quote using Ajax or not. You may specify the time each quote should be displayed and if Javascript-based refreshing should be enabled or not.
 
-Have fun and [http://github.com/subtree/super-simple-quotes][fork me at github] if you want to improve this plugin! 
+Have fun and feel very welcome to submit patches/ideas/bugs if you want to improve this plugin! 
 
 == Installation ==
 
