@@ -65,8 +65,8 @@ function super_simple_quotes_emit_js() {
     return randValue;
   }
   function showQuote() {
+    lastIndex = getQuoteIndex(lastIndex);
     jQuery("<?php echo $options['element_reference'] ?>:not(:animated)").fadeOut("slow", function () {
-      lastIndex = getQuoteIndex(lastIndex);
       jQuery("<?php echo $options['element_reference'] ?>").text(quotes[lastIndex]);
       jQuery("<?php echo $options['element_reference'] ?>").fadeIn("slow", function () {
         if (<?php echo ($options['use_refresh'] == 1)?'true':'false' ?>) {
